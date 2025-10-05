@@ -1,0 +1,26 @@
+/* *{
+    box-sizing: border-box;
+} */
+
+/* .container {
+    display: flex;
+    width: 960px;
+    height: 960px;
+}
+.box {
+    border: 2px solid darkgrey;
+    width: 16px;
+    height: 16px;
+} */
+
+.btns {
+    display: flex;
+    gap: 20px;
+    background-color: bisque;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    justify-content: center;
+    align-self:center;
+    font-size: 32px;;
+    
+}
